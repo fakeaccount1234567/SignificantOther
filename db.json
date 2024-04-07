@@ -1,0 +1,54 @@
+{
+  "staffTravel": [
+    {
+      "employeeID": "010101",
+      "email":"akshat.jain@easyjet.com",
+      "pin": 1111,
+      "significantOtherOne": {
+        "title": "Mrs",
+        "gender": "Female",
+        "forename": "rose",
+        "surname": "xyz"
+      },
+      "significantOtherTwo": {
+        "title": "Mr",
+        "gender": "Male",
+        "forename": "harry",
+        "surname": "xyz"
+      },
+      "significantOtherThree": {
+        "title": "Mrs",
+        "gender": "Female",
+        "forename": "marry",
+        "surname": "xyz"
+      },
+      "remChanges": 20,
+      "updated": "2024-03-29T10:52:59.383Z"
+    },
+    {
+      "employeeID": "020202",
+      "email":""
+      "pin": 2222,
+      "significantOtherOne": {
+        "title": "Mrs",
+        "gender": "Female",
+        "forename": "",
+        "surname": ""
+      },
+      "significantOtherTwo": {
+        "title": "Mr",
+        "gender": "Male",
+        "forename": "",
+        "surname": ""
+      },
+      "significantOtherThree": {
+        "title": "Mrs",
+        "gender": "Female",
+        "forename": "",
+        "surname": ""
+      },
+      "remChanges": 20,
+      "updated": "2024-03-29T10:52:59.383Z"
+    }
+  ]
+}
